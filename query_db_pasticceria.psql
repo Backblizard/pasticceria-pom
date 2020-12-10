@@ -1,0 +1,18 @@
+CREATE TABLE public.lista_vendita(
+	token_lista_vendita SERIAL PRIMARY KEY,
+	token_dolce int4 NULL,
+	quantita int2 NULL,
+	data_timestamp timestamp NULL
+);
+
+CREATE TABLE public.dolce(
+	token_dolce SERIAL PRIMARY KEY,
+	nome character varying(255) NULL,
+	prezzo numeric(10,2) NULL,
+	data_timestamp timestamp NULL
+);
+
+INSERT INTO dolce(nome,prezzo,data_timestamp) VALUES('Torta della nonna',7.00,NOW());
+INSERT INTO dolce(nome,prezzo,data_timestamp) VALUES('Profitterol',5.00,NOW());
+INSERT INTO dolce(nome,prezzo,data_timestamp) VALUES('Crostata',3.00,NOW());
+INSERT INTO dolce(nome,prezzo,data_timestamp) VALUES('Torta Cioccolato e Panna',13.00,NOW());
