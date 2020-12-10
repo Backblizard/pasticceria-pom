@@ -1,0 +1,15 @@
+it\pasticceria\model\AbstractRepositoryImpl.class
+it\pasticceria\model\entities\Utente.class
+it\pasticceria\model\entities\Ingrediente.class
+it\pasticceria\model\entities\ListaIngredienti.class
+it\pasticceria\model\bean\RicercaUtenteRequest.class
+it\pasticceria\model\bean\RicercaDolceRequest.class
+it\pasticceria\model\entities\Dolce.class
+it\pasticceria\model\bean\RicercaListaVenditaRequest.class
+it\pasticceria\model\UserRepositoryImpl.class
+it\pasticceria\model\AbstractRepository.class
+it\pasticceria\model\DolciRepositoryImpl.class
+it\pasticceria\model\UserRepository.class
+it\pasticceria\model\DolciRepository.class
+it\pasticceria\model\entities\ListaVendita.class
+it\pasticceria\utils\CommonUtils.class

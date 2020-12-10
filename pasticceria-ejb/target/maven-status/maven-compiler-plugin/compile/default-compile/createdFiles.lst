@@ -1,0 +1,15 @@
+it\pasticceria\beans\ListaIngredientiFe.class
+it\pasticceria\beans\ListaVenditaFe.class
+it\pasticceria\business\manager\intf\UserManager.class
+it\pasticceria\business\mapper\DolceMapper.class
+it\pasticceria\business\mapper\ListaIngredientiMapper.class
+it\pasticceria\beans\UtenteFe.class
+it\pasticceria\business\mapper\UtenteMapper.class
+it\pasticceria\business\manager\UserManagerImpl.class
+it\pasticceria\business\mapper\IngredienteMapper.class
+it\pasticceria\beans\ListaVenditaResultFe.class
+it\pasticceria\business\mapper\ListaVenditaMapper.class
+it\pasticceria\beans\IngredienteFe.class
+it\pasticceria\business\manager\intf\VenditaManager.class
+it\pasticceria\business\manager\VenditaManagerImpl.class
+it\pasticceria\beans\DolceFe.class
